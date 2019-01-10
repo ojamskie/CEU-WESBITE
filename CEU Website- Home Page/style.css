@@ -4,13 +4,6 @@
 	font-family: Charmonman;
 }
 
-header{
-	background-image: url(../7.jpg);
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-}
-
 ul{
 	float: left;
 	list-style-type: none; 

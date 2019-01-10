@@ -11,15 +11,31 @@ header{
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
-	margin-top: 50px;
 }
 
 ul{
-	margin-left: 40px;
-	padding: 40px 5px;
+	margin-left: 50px;
+	padding: 50px 5px;
 }
 
 ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+b{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+	font-size: 15px;
+}
+
+bdi{
+	margin-left: 50px;
+	padding: 0px 5px;
+}
+
+h1 bdi b{
 	text-decoration: none;
 	color: #fff;
 }
